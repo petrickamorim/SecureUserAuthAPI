@@ -117,7 +117,7 @@ https://localhost:5001/swagger
 
 Desenvolvido por **Petrick Amorim**  
 📧 amorimpetrick@icloud.com  
-📱 (11) 94544-0639
+📱 (11) 94524-8092
 
 ---
 
